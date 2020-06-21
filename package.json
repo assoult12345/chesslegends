@@ -1,0 +1,19 @@
+{
+  "name": "chessserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dom Rhe",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^0.10.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "password-hash": "^1.2.2",
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0"
+  }
+}
