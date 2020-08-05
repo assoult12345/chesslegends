@@ -1,6 +1,7 @@
 {
-    "Host": "localhost",
-    "User": "root",
-    "Password": "root",
+    "Host": "35.198.70.11",
+    "Port": "3306",
+    "User": "extern",
+    "Password": "pussy",
     "Database": "chessdatabase"
 }
